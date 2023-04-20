@@ -1,0 +1,87 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    text-align: center;
+    max-width: 1590px;
+  }
+ 
+  
+  body {
+    background: #3494e6;
+    background: -webkit-linear-gradient(
+      to right,
+      #ec6ead,
+      #3494e6
+    ); 
+    background: linear-gradient(
+      to right,
+      #ec6ead,
+      #3494e6
+    ); 
+    background-image: url('./assets/bg2.jpg');
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    
+    
+  }
+  
+  .ui.card {   
+  
+    /* background: -webkit-linear-gradient(
+      to right,
+      #eff1f0,
+      #f5f8f8
+    );
+    background: linear-gradient(
+      to right,
+      #f3efef,
+      #f4efef
+    ); */
+    background-color: transparent;
+    
+  }
+  /* Button{
+
+  } */
+  .description {
+    font-size:40px;
+  }
+  .header{
+    font-size: 37px;
+    
+  }
+  button{
+    height:5vh;
+    width: 7vw;
+    /* font-size: 20px; */
+  }
+  /* .content{
+    height: 60vh;
+    width: 50vw;
+  } */
+  /* .Footer{
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #333;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+} */
+.Footer{
+  /* padding-top: 10%; */
+  
+  
+  
+}
+    
+  
+
+
+  
